@@ -51,7 +51,7 @@ def auth(message):
                 otp_mess = otp
                 port = 465  # For SSL 
                 smtp_server = "smtp.gmail.com" 
-                sender_email = ""  
+                sender_email = "jasur.uzb10@gmail.com"  
                 receiver_email = email  
                 password = "" 
                 context = ssl.create_default_context() 
