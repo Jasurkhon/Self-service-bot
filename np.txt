@@ -1,0 +1,11 @@
+https://confluence.nexign.com/pages/viewpage.action?pageId=135334652 sql запрос
+https://confluence.nexign.com/pages/viewpage.action?pageId=135334548 sql запрос подготовка данные
+https://confluence.nexign.com/pages/viewpage.action?pageId=471405573 системный запрос postgresql
+https://confluence.nexign.com/pages/viewpage.action?pageId=368531344 пользователь аутентифицировать nan
+https://confluence.nexign.com/pages/viewpage.action?pageId=171198488 ошибка tdp
+https://confluence.nexign.com/pages/viewpage.action?pageId=368531301 отображение бф клиент абонент nan
+https://confluence.nexign.com/pages/viewpage.action?pageId=392855647 схема бд полезный sql запрос nan
+https://confluence.nexign.com/pages/viewpage.action?pageId=251420683 cnc api полезный запрос
+https://confluence.nexign.com/pages/viewpage.action?pageId=251420683 cnc api полезный запрос
+https://confluence.nexign.com/pages/viewpage.action?pageId=109169240 дублирование вызов ап nan
+https://confluence.nexign.com/pages/viewpage.action?pageId=425857490 установка patroni postgresql
